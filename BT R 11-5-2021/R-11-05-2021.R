@@ -1,17 +1,17 @@
 setwd("c:/Users/PC/Desktop/R")
 
-# Nhập data
+# Import data
 data = read.table("Owls.txt", header = TRUE)
 
 
-# Câu 1:
-# Sử dụng library(dplyr) để nhóm data
+# EX1:
+# Use library(dplyr) to split data
 library(dplyr)
 Nest <- split(data, data$Nest)
 Nest[['AutavauxTV']]
 
 
-# Vẽ biểu đồ
+# Draw plot
 plot(x = Nest[["AutavauxTV"]]$SiblingNegotiation,
      y = Nest[["AutavauxTV"]]$ArrivalTime, 
      xlab = "Sibling Negotiation",
@@ -34,6 +34,17 @@ plot(x = Nest[["CorcellesFavres"]]$SiblingNegotiation,
 
 
 
-# Câu 2:
+# EX2:
 # Filter data with multiple condition in group
-data[data$Nest == "AutavauxTV" & data$FoodTreatment == "Deprived",]
+data[data$Nest == "AutavauxTV" & data$FoodTreatment == "Deprived", ]
+
+
+
+        
+}
+
+
+
+
+
+
