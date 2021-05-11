@@ -45,8 +45,4 @@ for (i in 1:27) {
 # Bài tập
 #Sử dụng file dữ liệu temperature.xls; có chứa thông tin dữ liệu ở 31 trạm thời tiết (temperature observations)
 #Sử dụng dữ liệu nhiệt độ (temperature) và thời gian (time) để vẽ biểu đồ plot của 31 trạm này
-#Lưu dưới dạng jpeg
-
-
-
-
+#Lưu dưới dạng jpeg,
