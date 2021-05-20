@@ -25,11 +25,12 @@ Deaths_col
 
 # Ve bieu do 
 # Bieu do pie chart
+library(plotrix)
 par(mfrow=c(2,2), mar= c(3,3,2,1))
 pie(Deaths, main = "Total deaths per years")
 pie3D(Deaths, main = "3D Pie Chart",
       explode=0.1,
-      labels = names(Cases),
+      labels = names(Deaths),
       labelcex=0.6,)
 
 
@@ -45,7 +46,7 @@ box()
 # (su dung 2 bien R - Richness va bien Transect tuong tu bien Beach trong csdl RIKZ.txt) 
 # Tao 1 bieu do trong do gia tri trung binh duoc ve thanh cac diem den. 
 # Standard error duoi dang cac duong xung quanh gia tri trung binh va du lieu quan sat duoi dang cac vong tron mo. 
-# (nhý ph???n STRIP CHART)
+# (nhý phan STRIP CHART)
 
 
 # Input Data
@@ -54,12 +55,13 @@ names(Vegetation)
 str(Vegetation)
 
 
-Richness <- rowSums(Vegetation[,10:13])
+Richness <- rowSums(Vegetation[5])
 names(Richness) <- Vegetation[,1]
 Richness
 
 Vegetation_new <- data.frame(Richness, Vegetation$Transect)
 colnames(Vegetation_new)[2] <- "Transect"
+Vegetation_new
 
 
 
@@ -80,7 +82,7 @@ barplot(Veg.M)
 
 
 bp <- barplot(Veg.M, xlab="Transect",
-              ylim = c(0,550),
+              ylim = c(0,20),
               ylab="Richness",
               col=rainbow(8)
 )
