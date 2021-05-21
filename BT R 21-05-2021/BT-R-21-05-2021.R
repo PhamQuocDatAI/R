@@ -21,4 +21,8 @@ boxplot(Richness ~ Beach, data = data,
         horizontal = FALSE)
 
 
+# Chi tiet ham boxplot
+?boxplot
+
+
 
