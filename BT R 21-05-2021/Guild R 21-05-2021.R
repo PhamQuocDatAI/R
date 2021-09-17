@@ -5,7 +5,7 @@
 
 # Su dung Boxplots de hien thi du lieu Owl Data
 
-setwd("C:\\Users\\PC\\Desktop\\R\\BT R 21-05-2021")
+setwd("C:/Users/ASUS/Desktop/R/BT R 21-05-2021")
 
 
 # Xem xet hanh vi cua cu con xem no co phan ung nhu the nao

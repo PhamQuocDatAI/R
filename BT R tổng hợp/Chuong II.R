@@ -1,6 +1,6 @@
 
 # setwd()
-setwd("C://Users//PC//Desktop//R//BT R t???ng h???p")
+setwd("C:/Users/ASUS/Desktop/R/BT R t???ng h???p")
 
 # read.table()
 Benthic <- read.table("RIKZ2.txt", sep = "\t", header = TRUE)
@@ -147,3 +147,4 @@ getwd()
 # Apply scan function to txt file
 data <- scan("data.txt", what = "character")
 data
+

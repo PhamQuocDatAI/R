@@ -1,6 +1,6 @@
 
 
-setwd("C://users//PC//Desktop//R//BT R 24-05-2021")
+setwd("C:/Users/ASUS/Desktop/R/BT R 24-05-2021")
 
 #7.5 Xem lai ham plot 
 

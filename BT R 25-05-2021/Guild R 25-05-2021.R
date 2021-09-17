@@ -2,7 +2,7 @@
 
 #Ngày 25/05/2021
 #7.6 PairPlot
-setwd("C://Users//PC/Desktop//R//BT R 25-05-2021")
+setwd("C:/Users/ASUS/Desktop/R/BT R 25-05-2021")
 Benthic <-read.table(file="RIKZ2.txt", header=TRUE)
 pairs(Benthic[,2:9])
 

@@ -1,5 +1,5 @@
 # Set working direction (folder)
-setwd("c:/Users/PC/Desktop/R")
+setwd("C:/Users/ASUS/Desktop/R/BT R 11-5-2021")
 
 
 #Convert temperature.xls => temperature.txt
@@ -60,3 +60,4 @@ for (i in 1:N) {
        main = NestNight.i)
   #dev.off()
 }
+

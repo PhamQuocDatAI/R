@@ -1,6 +1,6 @@
 
 
-setwd("C:\\Users\\PC\\Desktop\\R\\BT R 18-5-2021")
+setwd("C:/Users/ASUS/Desktop/R/BT R 18-5-2021")
 
 # Chapter 5 => Plot => Bieu do dang x, y 
 # Them mot so tool cho ve bieu do 

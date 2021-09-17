@@ -1,6 +1,6 @@
 
 
-setwd("C://Users//PC//Desktop//R//BT R t???ng h???p")
+setwd("C://Users//ASUS//Desktop//R//BT R t???ng h???p")
 
 # write.table()
 ?write.table
