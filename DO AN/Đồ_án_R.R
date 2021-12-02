@@ -6,8 +6,8 @@
 #'                                
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-setwd("C://Users//PC//Desktop//Daily_report")
+# C:\Users\ASUS\OneDrive\Máy tính\R\DO AN\Daily_report
+setwd("C:/Users/ASUS/OneDrive/Máy tính/R/DO AN/Daily_report")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #'
@@ -36,8 +36,8 @@ library(readr)
 #'   
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
 
-
-covid <- read.csv("C://Users//PC//Desktop//Ð??? ÁN R//COVID//COVID-2021-daily-report-US//01-01-2021.csv")
+# C:\Users\ASUS\OneDrive\Máy tính\R\DO AN\Data Covid\COVID19-US\2021
+covid <- read.csv("C:/Users/ASUS/OneDrive/Máy tính/R/DO AN/Data Covid/COVID19-US/2021/01-01-2021.csv")
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
