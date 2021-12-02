@@ -1,0 +1,511 @@
+name,time_up,price,year_product,style,status,origin,KM,local,box_car,fuel
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Toyota Camry  2018,17/11/2021,815000000,2018,Sedan,Đã qua sử dụng,Trong nước,30000,Hà Nội,Số tự động,Xăng
+Lexus LS 500  2018,17/11/2021,5900000000,2018,Sedan,Đã qua sử dụng,Nhập khẩu,20000,Tp.HCM,Số tự động,Xăng
+Land Rover Range Rover  2014,17/11/2021,3790000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,60000,Hà Nội,Số tự động,Xăng
+Ford Everest  2021,17/11/2021,1112000000,2021,SUV,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Diesel
+Porsche Boxster  2015,17/11/2021,3700000000,2015,Coupe,Đã qua sử dụng,Nhập khẩu,28000,Tp.HCM,Số tự động,Xăng
+Toyota Fortuner  2009,17/11/2021,388000000,2009,SUV,Đã qua sử dụng,Trong nước,92000,Hà Nội,Số tự động,Xăng
+Honda City  2017,17/11/2021,450000000,2017,Sedan,Đã qua sử dụng,Nhập khẩu,51000,Bình Dương,Số tự động,Xăng

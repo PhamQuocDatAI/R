@@ -1,0 +1,511 @@
+name,time_up,price,year_product,style,status,origin,KM,local,box_car,fuel
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
+Mercedes-Benz GLA 45 4MATIC 2014,17/11/2021,1090000000,2014,SUV,Đã qua sử dụng,Nhập khẩu,42000,Tp.HCM,Số tự động,Xăng
+Toyota Innova E 2015,17/11/2021,385000000,2015,MPV,Đã qua sử dụng,Trong nước,102000,Tp.HCM,Số tay,Xăng
+Ford Fiesta  2011,17/11/2021,200000000,2011,Sedan,Đã qua sử dụng,Trong nước,90000,Hà Nội,Số tay,Xăng
+Toyota Vios   1.5E  2008,17/11/2021,215000000,2008,Sedan,Đã qua sử dụng,Trong nước,152000,Thanh Hóa,Số tay,Xăng
+Toyota Vios   1.5G   2018,17/11/2021,465000000,2018,Sedan,Đã qua sử dụng,Trong nước,90000,Tp.HCM,Số tự động,Xăng
+Honda Accord   2.0 MT   1991,17/11/2021,70000000,1991,Sedan,Đã qua sử dụng,Nhập khẩu,100000,Hà Nội,Số tay,Xăng
+Kia Morning   Si AT   2016,17/11/2021,295000000,2016,Hatchback,Đã qua sử dụng,Trong nước,60000,Phú Thọ,Số tự động,Xăng
+BMW 330i M Sport  2021,17/11/2021,2499000000,2021,Sedan,Mới,Nhập khẩu,0,Tp.HCM,Số tự động,Xăng
+Mazda 2  AT 2016,17/11/2021,380000000,2016,Sedan,Đã qua sử dụng,Trong nước,60000,Bình Dương,Số tự động,Xăng
+Honda Brio  2021,17/11/2021,418000000,2021,Hatchback,Mới,Nhập khẩu,0,Hà Nội,Số tự động,Xăng
