@@ -1,0 +1,361 @@
+---
+title: "ĐỒ ÁN PHÂN TÍCH DỮ LIỆU"
+author: PHẠM QUỐC ĐẠT
+date: "15/12/2021"
+output: 
+  html_document: 
+    theme: readable
+--- 
+
+## ĐỒ ÁN PHÂN TÍCH DỮ LIỆU R
+
+
+Chuyển sang thư mục làm việc 
+```{r}
+setwd('C:/Users/ASUS/OneDrive/Máy tính/Crawler')
+```
+
+Khai báo các thư viện cần dùng 
+```{r message=FALSE, warning=FALSE}
+library(ggplot2)
+library(plotly)
+library(gapminder)
+library(tidyverse)
+library(e1071)
+library(viridis)
+library(hrbrthemes)
+library(dplyr)
+library(plyr)
+library(readr)
+library(ggthemes)
+library(car)
+```
+
+Nhập dữ liệu 
+```{r message=FALSE, warning=FALSE}
+my_file <- list.files(pattern = "*.csv")
+data <- ldply(my_file, read_csv)
+```
+
+## Task 1: Mô tả dữ liệu lấy về
+a. Số lượng dòng dữ liệu 
+```{r}
+nrow(data)
+```
+b. Danh sách các trường dữ liệu 
+```{r}
+# Xem 10 dòng đầu tiên 
+head(data, 10)
+# Tên các trường dữ liệu 
+names(data)
+# Kiểu dữ liệu mỗi trường 
+str(data)
+View(data)
+```
+
+Xử lí dữ liệu
+```{r}
+# Chuyển dữ liệu sang định dạng ngày 
+data$time_up <- as.Date(data$time_up, "%d/%m/%Y") 
+# Chuyển dữ liệu sang factor
+# cols <- c("trademark", "brand", "style", "fuel")
+# data[cols] <- lapply(data[cols], factor)
+```
+
+## Task 2: Phân tích thống kê \
+### I. Phân tích thống kê mô tả \
+__a. Tính các chỉ số thống kê mô tả__
+```{r}
+# mean 
+mean(data$price)    # Trung bình giá xe 
+mean(data$KM)    # Trung bình số KM đã đi 
+# mode
+# Tạo hàm
+getmode <- function(v) {
+   uniqv <- unique(v)
+   uniqv[which.max(tabulate(match(v, uniqv)))]
+}
+getmode(data$price)    # Yếu vị giá xe
+getmode(data$KM)    # Yếu vị số KM đã đi 
+# median 
+median(data$price)    # Trung vị giá xe
+median(data$KM)    # Trung vị số KM đã đi 
+# Bảng tóm tắt dữ liệu summary
+summary(data)
+# table
+# Số lượng xe của mỗi hãng đang được rao bán 
+table(data$trademark)  
+# Phân khúc xe đang được rao bán 
+table(data$style)    
+# Các loại hộp số xe 
+table(data$box_car)    
+# Các tỉnh thành đang bán xe 
+table(data$local)    
+# Năm sản xuất của xe 
+table(data$year_product)  
+
+# Tứ phân vị quantile
+# Giá xe
+quantile(data$price)  
+# Số KM đã đi 
+quantile(data$KM)  
+# Tương quan Correlation
+cor(data[c(5, 6, 10)], use = "everything", method = "pearson")
+```
+
+__b. Vẽ biểu đồ và nhận xét về số liệu__ \
+__Plot1: Biểu diễn số lượng xe đang bán của mỗi hãng__
+```{r}
+tab1 <- table(data$trademark)
+tab1 <- data.frame(tab1)
+colnames(tab1) <- c('Trademark', 'Freq')
+p1 <- tab1 %>%
+  mutate(Trade = fct_reorder(Trademark, Freq)) %>%
+  ggplot(aes(x = Trade, 
+             y = Freq,
+             fill = Trademark)) +
+  geom_bar(stat="identity", fill="#f68060", alpha=.6, width=.4) +
+  labs(title = "Number of cars of each brand being sold",
+       x = "Trademark",
+       y = "Count") + 
+  coord_flip() +
+  theme_bw() + 
+  theme(plot.title = element_text(hjust = 0.5), 
+        panel.background = element_rect(fill = 'white'), 
+        panel.border = element_rect(colour = '#990000', fill = NA, size = 1.5))
+
+ggplotly(p1, dynamicTicks = TRUE) %>%
+  rangeslider() %>%
+  layout(hovermode = "x")
+```
+
+__Nhận xét biểu đồ:__ \
+- Biểu đồ là dạng cột ngang \
+- Biểu đồ biểu diễn số lượng xe đang được rao bán của mỗi hãng, trong đó: \
++ Trục x biểu diễn tên của các hãng xe \
++ Trục y biểu diễn số lượng xe \
++ Nhỏ nhất là 1 xe đang được bán với 4 hãng (Volvo, Lada, Geely, Alfa Romeo) \
++ Lớn nhất là hãng Toyota với số lượng 1325 chiếc đang được bán 
+
+__Plot2: Tương quan giữa năm sản xuất sản phẩm và giá xe__
+```{r message=FALSE, warning=FALSE}
+Toyota <- filter(data, data$trademark == "Toyota")
+Innova <- filter(Toyota, Toyota$brand == "Innova")
+p2 <- Innova %>%
+  ggplot(aes(x = year_product,
+             y = price)) +
+  geom_boxplot(aes(fill = factor(year_product))) + 
+  labs(title="Car price Toyota Innova", 
+       caption = "Source: mpg", 
+       x = "Year", 
+       y = "Price",
+       fill = "") + 
+  theme_fivethirtyeight() +
+  theme(axis.text.x = element_text(angle = 45,
+                                   vjust = 0.5),
+        axis.title = element_text(face = "bold", 
+                                  size = 14),
+        panel.background = element_rect(fill = "white"),
+        legend.background = element_rect(fill="lightblue",
+                                         size=0.5,
+                                         linetype="solid", 
+                                         colour ="darkblue"),
+        panel.border = element_rect(colour = '#990000',
+                                    fill = NA,
+                                    size = 1.5))
+
+ggplotly(p2, dynamicTicks = TRUE) %>%
+  rangeslider() %>%
+  layout(hovermode = "x",
+         title = list(text = paste0("Car price Toyota Innova",
+                                    "<br>",
+                                    "<sup>",
+                                    "How does year product affect car price?")))
+```
+
+__Nhận xét biểu đồ:__ \
+- Biểu đồ dạng box plot \
+- Biểu đồ biểu diễn số mối quan hệ giữa giá xe và năm sản xuất của sảng phẩm, trong đó: \
++ Trục x biểu diễn năm sản xuất của sản phẩm \
++ Trục y biểu diễn giá tiền \
++ Nhận thấy rằng, trong cùng một model xe (Toyota Innova) giá xe tăng khi năm sản xuất tăng, cụ thể: \
+* Năm 2006, trung bình giá xe là 210 triệu (max: 280 triệu, min: 145 triệu) \
+* Năm 2021, trung bình giá xe là 750 triệu (max: 887 triệu, min: 700 triệu) \
+
+__Plot3: Xe có tỉ lệ bán nhiều nhất? __
+```{r message=FALSE, warning=FALSE}
+Porsche <- filter(data, data$trademark == "Porsche")
+p3 <- Porsche %>%
+  ggplot(aes(x = year_product,
+             fill = brand,
+             text = style)) +
+  geom_density(alpha = 0.8) + 
+  labs(title="Which is the highest rate of car sales in each model?", 
+       caption = "Source: mpg", 
+       x = "Year", 
+       y = "Density",
+       fill = "Brand Car") +
+  theme_fivethirtyeight() +
+  theme(axis.text.x = element_text(angle = 45,
+                                   vjust = 0.5),
+        axis.title = element_text(face = "bold", 
+                                  size = 11),
+        title = element_text(face = "bold", 
+                             size = 12),
+        panel.background = element_rect(fill = "white"),
+        legend.background = element_rect(fill="lightblue",
+                                         size=0.5,
+                                         linetype="solid", 
+                                         colour ="darkblue"),
+        panel.border = element_rect(colour = '#990000',
+                                    fill = NA,
+                                    size = 1.5))
+ggplotly(p3, dynamicTicks = TRUE) %>%
+  rangeslider() %>%
+  layout(hovermode = "x",
+         title = list(text = paste0("Which is the highest rate of car sales in each model?",
+                                    "<br>",
+                                    "<sup>",
+                                    "From 2007-2021")))
+```
+
+__Nhận xét biểu đồ:__ \
+- Biểu đồ dạng mật độ \
+- Biểu đồ biểu diễn tỉ lệ mỗi dòng xe đang được bán của hãng xe Porsche, trong đó: \
++ Trục x biểu diễn năm sản xuất ra sản phẩm \
++ Trục y biểu diễn tỉ lệ \
+- Xét dòng xe Porsche Cayman: \
++ Dòng xe này được rao bán từ năm 2015 cho đến nay \
++ Từ 2015-2019, tỉ lệ rao bán của dòng xe này tăng liên tục \
++ Vào năm 2019, dòng xe này có tỉ lệ rao bán lớn nhất (0.214) \
++ Từ 2019-2021, tỉ lệ này giảm nhẹ và đến 2021 đạt chỉ số 0.168
+
+__Plot4: Luxury car__
+```{r message=FALSE, warning=FALSE}
+car_4b <- filter(data, data$price >= 4000000000)
+p4 <- car_4b %>%
+  ggplot(aes(x = trademark, 
+             y = price,
+             size = price,
+             fill = local,
+             text = name)) +
+  geom_point() + 
+  labs(title="Luxury Car", 
+       caption = "Source: mpg", 
+       x = "Trademark", 
+       y = "Price",
+       fill = "Province") +
+  theme_fivethirtyeight() + 
+  theme(axis.text.x = element_text(angle = 90,
+                                   vjust = 0.5,
+                                   face = "bold"),
+        axis.text.y = element_text(face = "bold"),
+        axis.title = element_text(face = "bold", 
+                                  size = 11),
+        title = element_text(face = "bold", 
+                             size = 12),
+        panel.background = element_rect(fill = "white"),
+        legend.background = element_rect(fill="lightblue",
+                                         size=0.5,
+                                         linetype="solid", 
+                                         colour ="darkblue"),
+        panel.border = element_rect(colour = '#990000',
+                                    fill = NA,
+                                    size = 1.5))
+ggplotly(p4, dynamicTicks = TRUE) %>%
+  layout(hovermode = "x",
+         title = list(text = paste0("Luxury Car",
+                                    "<br>",
+                                    "<sup>",
+                                    "Which province sells luxury cars?")))
+```
+
+
+### II. Phân tích thống kê suy diễn
+
+__a. Phân tích mối quan hệ tương quan__ \
+a. Phân tích mối quan hê giữa dòng xe với giá xe \
+(Lưu ý: Nếu dữ liệu không tuân theo phân phối chuẩn, sử dụng phương pháp tương quan không tham số bao gồm các bài kiểm tra tương quan dựa trên thứ hạng Spearman, Kendall) \
+
+Phát biểu giả thuyết: \
+$H_{0}$: Hai biến có mối quan hệ tương quan \
+$H_{1}$: Hai biến độc lập với nhau \
+```{r message=FALSE, warning=FALSE}
+df1 <- filter(data, data$style == c("Sedan", "SUV"))
+df1$style[which(df1$style == "Sedan")] <- 1
+df1$style[df1$style == "SUV"] <- 2
+df1$style <- as.numeric(df1$style)
+with(df1, cor.test(style, price, method="kendall"))
+# 	Kendall's rank correlation tau
+# 
+# data:  style and price
+# z = 24.175, p-value < 2.2e-16
+# alternative hypothesis: true tau is not equal to 0
+# sample estimates:
+#       tau 
+# 0.4242931 
+
+# Nhận xét:
+# Vì p_value < 0.5 => Bác bỏ giả thuyết H0, nghĩa là r != 0 một cách có ý nghĩa thống kê, hai biến có tương quan tuyến tính với nhau
+# tau = 0.4242 => Mối tương quan trung bình 
+```
+b. Phân tích mối quan hệ tương quan giữa năm sản xuất với giá xe
+Phát biểu giả thuyết: \
+```{r message=FALSE, warning=FALSE}
+with(df1, cor.test(year_product, price, method="spearman"))
+# 	Spearman's rank correlation rho
+# 
+# data:  year_product and price
+# S = 835223259, p-value < 2.2e-16
+# alternative hypothesis: true rho is not equal to 0
+# sample estimates:
+#      rho 
+# 0.511601 
+
+# Nhận xét:
+# Vì p_value < 0.5 => Bác bỏ giả thuyết H0, nghĩa là r != 0 một cách có ý nghĩa thống kê, hai biến có tương quan tuyến tính với nhau
+# rho = 0.511601  => Mối tương quan mạnh
+```
+c. Phân tích mỗi quan hệ tương quan giữa số KM đã đi với giá xe
+```{r message=FALSE, warning=FALSE}
+with(df1, cor.test(KM, price, method="kendall"))
+# 	Kendall's rank correlation tau
+# 
+# data:  KM and price
+# z = -23.079, p-value < 2.2e-16
+# alternative hypothesis: true tau is not equal to 0
+# sample estimates:
+#        tau 
+# -0.3413664 
+
+# Nhận xét:
+# Vì p_value < 0.5 => Bác bỏ giả thuyết H0, nghĩa là r != 0 một cách có ý nghĩa thống kê, hai biến có tương quan tuyến tính với nhau
+# rho = -0.3413664  => Mối tương quan trung bình 
+```
+
+__b. Kiểm định giả thuyết__ \
+Vì dữ liệu bán xe ô tô khó tuân theo phân phối chuẩn nên chúng ta chuyển sang thực hiện kiểm định phi tham số. \
+__Wilcoxon Signed-Rank Test__
+(Alternative to two-sample t-test for independent samples) \
+
+* Kiểm định xem giá xe sedan so với suv hãng toyota có sự khác biệt hay không? \
+Phát biểu giả thuyết: \
+$H_{0}$: Trung bình giá xe của dòng Sedan so với dòng SUV là tương đương nhau: $\mu_{1} = \mu_{2}$\
+$H_{1}$: Trung bình giá xe của dòng Sedan so với dòng SUV là khác nhau: $\mu_{1} \neq \mu_{2}$ \
+```{r message=FALSE, warning=FALSE}
+# Xem trung vị của 2 nhóm 
+suv_sedan_toyota <- filter(Toyota, Toyota$style == c("Sedan", "SUV"))
+tapply(suv_sedan_toyota$price, suv_sedan_toyota$style, median, na.rm=TRUE)
+```
+
+```{r message=FALSE, warning=FALSE}
+wilcox.test(df1$style, df1$price, alternative='two.sided', paired=TRUE)
+# 	Wilcoxon signed rank test with continuity correction
+# 
+# data:  df1$style and df1$price
+# V = 0, p-value < 2.2e-16
+# alternative hypothesis: true location shift is not equal to 0
+
+# Nhận xét
+# Vì p_value < 0.5 nên chúng ta bác bỏ giả thuyết H0, giữa 2 dòng xe có sự khác biệt về giá 
+```
